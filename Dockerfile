@@ -1,4 +1,4 @@
-FROM vinothkumarp-docker.jfrog.io/alpine:3.11.5
+FROM vinothkumarp.jfrog.io/docker:latest
 
 CMD printf "\nCONGRATULATIONS!!!\n\nYou have just set up your first Docker repository with the new JFrog Platform!\n\n"
 
